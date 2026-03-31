@@ -35,13 +35,13 @@ retain them.
 ## 📊 Dashboard Preview
 
 ### Page 1 — Executive Summary
-![Executive Summary](images/Page1_Executive_Summary.png)
+![Executive Summary](Page1_Executive_Summary.png)
 
 ### Page 2 — Churn Deep Dive
-![Churn Deep Dive](images/Page2_Churn_Deep_Dive.png)
+![Churn Deep Dive](Page2_Churn_Deep_Dive.png)
 
 ### Page 3 — Churn Playbook
-![Churn Playbook](images/Page3_Churn_Playbook.png)
+![Churn Playbook](Page3_Churn_Playbook.png)
 
 ---
 
