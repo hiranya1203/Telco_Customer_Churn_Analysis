@@ -38,7 +38,7 @@ retain them.
 ![Executive Summary](Page1_Executive_Summary.png)
 
 ### Page 2 — Churn Deep Dive
-![Churn Deep Dive](Page2_Churn_Deep_dive.png)
+![Churn Deep dive](Page2_Churn_Deep_dive.png)
 
 ### Page 3 — Churn Playbook
 ![Churn Playbook](Page3_Churn_Playbook.png)
