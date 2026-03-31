@@ -60,6 +60,3 @@ retain them.
 PGDM — Finance & Business Analytics
 Aurora Business School, Hyderabad
 
-
-```
-```
